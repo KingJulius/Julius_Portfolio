@@ -5,7 +5,7 @@
 - Uses several concepts such Server/Client Networking, Databases (Sqlite3 used), Threads and GUI
 - Functionality: Has a similar gameplay logic as the actual Minewsweeper Game. It also has the ability to start a new instance of a game, to save an instance to the database via a server-client model, opening a saved instance of the game from the database and loading the top five higscores. 
 
-![](https://github.com/KingJulius/Julius_Portfolio/blob/main/images/Picture1.png)
-![](https://github.com/KingJulius/Julius_Portfolio/blob/main/images/Picture2.png)
-![](https://github.com/KingJulius/Julius_Portfolio/blob/main/images/Picture3.png)
-![](https://github.com/KingJulius/Julius_Portfolio/blob/main/images/Picture4.png)
+![](/images/Picture1.png)
+![](/images/Picture2.png)
+![](/images/Picture3.png)
+![](/images/Picture4.png)
